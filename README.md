@@ -14,7 +14,7 @@ A collection of potentially useful code snippets and commands ordered by technol
 
 ### GDB
 
-- [Handle SIGILL Illegal Instruction Error](handle-sigill-illegal-instruction-error.md))
+- [Handle SIGILL Illegal Instruction Error](gdb/handle-sigill-illegal-instruction-error.md)
 
 
 ### Git 
