@@ -21,3 +21,5 @@ A collection of potentially useful code snippets and commands ordered by technol
 
 ### Linux 
 - [Monitor TCP traffic](linux/monitor-tcp-traffic.md)
+- [Use Latex in Ubuntu](linux/use-latex-in-ubuntu.md)
+
