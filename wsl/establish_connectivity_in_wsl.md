@@ -1,4 +1,4 @@
-# Establish connectivity to github is WSL
+# Fix connectivity
 
 1. Create a file: /etc/wsl.conf with the contents
 ```bash
