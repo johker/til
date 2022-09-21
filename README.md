@@ -8,7 +8,7 @@ A collection of potentially useful code snippets and commands ordered by technol
 
 * [GDB](#gdb)
 * [Git](#git)
-* [Linux](#linux)
+* [WSL](#wsl)
 
 
 
@@ -17,9 +17,11 @@ A collection of potentially useful code snippets and commands ordered by technol
 - [Handle SIGILL Illegal Instruction Error](gdb/handle-sigill-illegal-instruction-error.md)
 
 
-### Git 
-
 ### Linux 
 - [Monitor TCP traffic](linux/monitor-tcp-traffic.md)
 - [Use Latex in Ubuntu](linux/use-latex-in-ubuntu.md)
+
+
+### WSL
+- [Fix connectivitiy](wsl/establish_connectivity_in_wsl.md)
 
